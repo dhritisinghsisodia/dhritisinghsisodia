@@ -61,27 +61,6 @@ I am a results-driven **Data Analyst** dedicated to engineering end-to-end data 
 - **Execution:** Parsed massive transactional data tracking seasonal buying trends, isolated shopper-initiated patterns from administrative backend entries, and designed executive-ready visual structures to optimize corporate sales strategies.
 ---
 
-### 📊 My GitHub Analytics
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" alt="Dhriti's GitHub Stats" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-      </td>
-    </tr>
-  </table>
-  
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" alt="GitHub Streak" />
-  </p>
-</div>
-
----
-
 <div align="center">
   <p>✨ Connect with me on my portfolios to collaborate on upcoming data ventures! ✨</p>
 </div>
