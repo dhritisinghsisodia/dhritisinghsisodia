@@ -3,10 +3,10 @@
   <p><strong>Data Analyst | Transforming Complex Data into Strategic Business Intelligence</strong></p>
 
   <img src="https://img.shields.io/badge/Maintained%3F-Yes-emerald?style=for-the-badge" alt="Maintained" />
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+  <a href="https://www.linkedin.com/in/dhriti-singh-sisodia-728a56237/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+  <a href="https://www.kaggle.com/dhritisisodia" target="_blank">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
   </a>
 </div>
