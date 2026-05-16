@@ -56,7 +56,7 @@ I am a results-driven **Data Analyst** dedicated to engineering end-to-end data 
 - **Objective:** Developed a comprehensive predictive risk classification pipeline to identify user attrition patterns and mitigate revenue drop-off.
 - **Execution:** Engineered advanced categorical feature scaling, managed structural class imbalances, and mapped complex behavioral data anomalies to establish highly accurate predictive retention modeling.
 
-#### 🔍 [Advanced Customer Behaviour Analysis](https://github.com/dhritisinghsisodia/customer-behaviour-analysis-python-sql-powerbi)
+#### 🔍 [Advanced Customer Behaviour Analysis](https://github.com/dhritisinghsisodia/customer-behavior-analysis-python-sql-powerbi)
 - **Objective:** Conducted deep-dive exploratory data analysis (EDA) to map out user purchase triggers, engagement milestones, and transactional behavior.
 - **Execution:** Parsed massive transactional data tracking seasonal buying trends, isolated shopper-initiated patterns from administrative backend entries, and designed executive-ready visual structures to optimize corporate sales strategies.
 ---
